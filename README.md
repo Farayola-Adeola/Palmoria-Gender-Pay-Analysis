@@ -4,4 +4,4 @@
 ## Tools Used : Power BI, DAX, Data Visualizations: Pie Chart Clusterd column Chart, Clusterd Bar Chart, Card, Table.
 ## Outcome : Gender pay disparities exists especially in certain departments and regions, Palmoria is not fully compliant with the minimum salary regulation.
 ## RECOMMENDATION: Palmoria's management team should: 1. Close the Gender Pay Gap 2. Ensure Compliance with salary regulation 3. Prioritize Regions and Departments with Disparties 4. Standardize the SalaryBand 5. Establish Regular Monitoring and Create a Gender Equity Policy.
-## FILE
+## FILE: 'Palmoria Gender Pay Analysis Project.pbix': The complete Power BI report.
